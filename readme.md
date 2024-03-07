@@ -1,4 +1,4 @@
-<img src="Python.jpg" align="right" />
+<img src="Python(1).jpg" align="right" />
 
 # This List contain the Data of Python Work
 [![GitHub last commit](https://github.com/samiwadh/Advance-Programming-Navttc)](https://github.com/samiwadh/Advance-Programming-Navttc/tree/main/Pyhton%20Work))
